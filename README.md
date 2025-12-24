@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<img src="https://cagrigokpunar.com/static/media/icon.dff1b93aae8ace22aeb4.png" alt="My logo" width="35%" align="right"/>
+
+# Çağrı "mpospirit" Gökpunar
+
+### Visit my website to learn more about me: [www.cagrigokpunar.com](https://www.cagrigokpunar.com)
+
 <!--
 **Aveefox/Aveefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
